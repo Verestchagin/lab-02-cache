@@ -85,7 +85,10 @@ investigation:                                       |  investigation:
 
 ### Графики ###
 [direct](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4oC3E2eXuxtYOjAfb2TmA7W7snJ3ytk5BB5dbuxtnWzu8ix3YGehsd2PrYAfEOz2FnV5c7m7sHIBgvK2L0zPE6dbuBujg8pS3c4o43TkF7W7Ati53eGc7lzDQGWJ3f2efRMNu7JwyHk@3GI9blxe7@1v7@wA=)
+
 [reverse](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4oIODs4vdja0dGA92cQoD7W7snJ3yts4utxCXuxtnWzu8iy3EFgK2u7F1sAPine5cHOxc7G7sHIBgvK2dsx3EzsXuBujg8pS3c3Z2cXZxsLsB27rc4Z3t7BwgLkG7@zv7JBp2Y@eU8Xi6xXjcurzY3d/a3wcF)
+
 [random](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4WxcHF1sHO7sbWzsw3s7pzsXpKWx3Y@fslHe2s4M42DrY3Tjb2uFtHSBgW6Cdy92NrYMdEG9nC7R1trO1u7FzAILxQDug060t2M7uBujg8pR3uXO6dXoK29rdgG1d7vC2YAcw0AFs63J3f2efRMNu7JwyHk@3GI9blxe7@1v7@wA=)
+
 [compare](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4WxcHF1sHO7sbWzsw3s7pzsXpKWx3Y@fslHe2s4M42DrY3Tjb2uFtHSBgW6Cdy92NrYMdEG9nC7R1trO1u7FzAILxQDug060t2M7uBujg8pR3uXO6dXoK29rdgG1d7vC2YAcw0AFs63J3f2efRMNubMEQjMcDxuPB7v7W/v7GKYgHOjg4u9jd2NqB8WAXpzDQ7sbO2Slv6@xyC3G5u3G2tcO72EJsIWC7G1sHOyDe6c7Fwc7F7sbOAQjG29o520HsXOxugA4uT3k7Z2cXZxcHuxuwrcsd3tnOzgHiErS7v7NPomE3QAeMxx3QFuMRdLC7v7O/v3EK4oG2EGeXuxtbOzAebGfnALa7sXN2yts6BR1cbu1unG3t8C52YGegs92NrYMdEO/0FHZ6cbm7sXMAgvG2Lk7PEKdbuxugg8tT3s4p4nTnFLS7Adu63OGd7VzCQGeI3f2dfRINu7Fzyng83WI8bl1e7O5v7e8DBg==)
 
