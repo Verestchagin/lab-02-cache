@@ -84,3 +84,4 @@ investigation:                                       |  investigation:
 [![Build Status](https://travis-ci.org/Verestchagin/lab-02-cache.svg?branch=master)](https://travis-ci.org/Verestchagin/lab-02-cache)
 
 ### Графики ###
+[direct](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4oC3E2eXuxtYOjAfb2TmA7W7snJ3ytk5BB5dbuxtnWzu8ix3YGehsd2PrYAfEOz2FnV5c7m7sHIBgvK2L0zPE6dbuBujg8pS3c4o43TkF7W7Ati53eGc7lzDQGWJ3f2efRMNu7JwyHk@3GI9blxe7@1v7@wA=)
