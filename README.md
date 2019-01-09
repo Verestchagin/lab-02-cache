@@ -92,8 +92,8 @@ investigation:                                       |  investigation:
 
 [compare](http://yotx.ru/#!1/3_h/sH@1sHBwcH@0YM4X9t/2j/YP9g309Kre1vnIJ4WxcHF1sHO7sbWzsw3s7pzsXpKWx3Y@fslHe2s4M42DrY3Tjb2uFtHSBgW6Cdy92NrYMdEG9nC7R1trO1u7FzAILxQDug060t2M7uBujg8pR3uXO6dXoK29rdgG1d7vC2YAcw0AFs63J3f2efRMNubMEQjMcDxuPB7v7W/v7GKYgHOjg4u9jd2NqB8WAXpzDQ7sbO2Slv6@xyC3G5u3G2tcO72EJsIWC7G1sHOyDe6c7Fwc7F7sbOAQjG29o520HsXOxugA4uT3k7Z2cXZxcHuxuwrcsd3tnOzgHiErS7v7NPomE3QAeMxx3QFuMRdLC7v7O/v3EK4oG2EGeXuxtbOzAebGfnALa7sXN2yts6BR1cbu1unG3t8C52YGegs92NrYMdEO/0FHZ6cbm7sXMAgvG2Lk7PEKdbuxugg8tT3s4p4nTnFLS7Adu63OGd7VzCQGeI3f2dfRINu7Fzyng83WI8bl1e7O5v7e8DBg==)
 
-| Number      | Buffer size | Direct Time | Reverse Time | Random Time |
-| ----------- |------------------| -----|
-| 1           | выровнен вправо    | $1600 |
-| 2           | выровнен по центру |   $12 |
-| 3           | прикольные         |    $1 |
+| Number | Buffer size | Direct Time | Reverse Time | Random Time |
+| ------ |-------------| ----------- | ------------ | ----------- |
+| 1      | 64          | $1600       | $1600        |       $1600 |
+| 2      | 128         |   $12       |          $12 |         $12 |
+| 3      | 256         |          $1 |           $1 |          $1 |
