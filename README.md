@@ -79,3 +79,8 @@ investigation:                                       |  investigation:
 ```
 
 ⚠️ В отчет также необходимо добавить общий график с результатами всех исследований. ⚠️
+
+#  Результат
+[![Build Status](https://travis-ci.org/Verestchagin/lab-02-cache.svg?branch=master)](https://travis-ci.org/Verestchagin/lab-02-cache)
+
+### Графики ###
